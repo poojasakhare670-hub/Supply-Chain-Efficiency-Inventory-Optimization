@@ -1,0 +1,151 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+05-01-2024,Jan,Q1,2024,P011,Water Bottle,Accessories,Metro Wholesale,Bengaluru,South,389,26,78,337,56,Sufficient Stock,3,277,On Time,3,2014.92,No,75,78,96.15,0.21
+07-01-2024,Jan,Q1,2024,P014,Webcam,Electronics,NorthStar Traders,Kolkata,East,104,110,102,112,80,Sufficient Stock,15,167,On Time,15,550.97,No,115,102,87.25,0.94
+14-01-2024,Jan,Q1,2024,P010,Backpack,Accessories,BlueOcean Logistics,Bengaluru,South,64,46,44,66,84,Reorder Needed,14,129,Delayed,17,69.63,No,33,44,75,0.68
+16-01-2024,Jan,Q1,2024,P004,Standing Desk,Furniture,Prime Vendors Ltd.,Delhi,North,368,39,132,275,48,Sufficient Stock,9,221,On Time,9,2620.7,No,141,132,93.18,0.41
+18-01-2024,Jan,Q1,2024,P010,Backpack,Accessories,Apex Distributors,Mumbai,West,96,75,93,78,87,Reorder Needed,8,94,On Time,8,630.13,No,96,93,96.77,1.07
+20-01-2024,Jan,Q1,2024,P005,LED Monitor,Electronics,NorthStar Traders,Delhi,North,99,60,147,12,48,Reorder Needed,8,166,On Time,8,114.53,No,161,147,90.48,2.65
+21-01-2024,Jan,Q1,2024,P015,Printer Paper (Ream),Stationery,Apex Distributors,Mumbai,West,399,63,62,400,62,Sufficient Stock,14,193,Delayed,18,3905.84,No,51,62,82.26,0.16
+23-01-2024,Jan,Q1,2024,P007,Ballpoint Pens (Box),Stationery,Apex Distributors,Mumbai,West,277,156,155,278,88,Sufficient Stock,13,250,On Time,13,1614.12,No,154,155,99.35,0.56
+27-01-2024,Jan,Q1,2024,P004,Standing Desk,Furniture,Apex Distributors,Hyderabad,South,117,73,122,68,96,Reorder Needed,13,174,On Time,13,663.57,No,140,122,85.25,1.32
+01-02-2024,Feb,Q1,2024,P007,Ballpoint Pens (Box),Stationery,BlueOcean Logistics,Bengaluru,South,459,27,137,349,52,Sufficient Stock,5,187,On Time,5,1674.15,No,134,137,97.81,0.34
+01-02-2024,Feb,Q1,2024,P012,Table Lamp,Furniture,Apex Distributors,Delhi,North,75,149,132,92,72,Sufficient Stock,15,185,On Time,15,887.52,No,117,132,88.64,1.58
+01-02-2024,Feb,Q1,2024,P007,Ballpoint Pens (Box),Stationery,Apex Distributors,Mumbai,West,112,116,33,195,82,Sufficient Stock,5,214,On Time,5,1899.26,No,16,33,48.48,0.21
+09-02-2024,Feb,Q1,2024,P014,Webcam,Electronics,Apex Distributors,Hyderabad,South,269,146,217,198,85,Sufficient Stock,12,156,On Time,12,919.75,No,217,217,100,0.93
+10-02-2024,Feb,Q1,2024,P009,Electric Kettle,Home Appliances,Apex Distributors,Hyderabad,South,491,92,108,475,85,Sufficient Stock,3,61,On Time,3,3779.86,No,93,108,86.11,0.22
+11-02-2024,Feb,Q1,2024,P010,Backpack,Accessories,Global Supply Co.,Kolkata,East,426,82,138,370,41,Sufficient Stock,3,108,Delayed,8,2325.15,No,119,138,86.23,0.35
+11-02-2024,Feb,Q1,2024,P006,Notebook Set,Stationery,Metro Wholesale,Mumbai,West,83,32,45,70,79,Reorder Needed,12,199,On Time,12,274.86,No,63,45,60,0.59
+14-02-2024,Feb,Q1,2024,P005,LED Monitor,Electronics,NorthStar Traders,Mumbai,West,434,118,204,348,61,Sufficient Stock,2,176,Delayed,4,1875.02,No,206,204,99.02,0.52
+17-02-2024,Feb,Q1,2024,P011,Water Bottle,Accessories,BlueOcean Logistics,Kolkata,East,310,92,19,383,63,Sufficient Stock,6,96,Delayed,9,3649.61,No,30,19,42.11,0.05
+17-02-2024,Feb,Q1,2024,P014,Webcam,Electronics,Prime Vendors Ltd.,Bengaluru,South,165,50,47,168,41,Sufficient Stock,2,112,Delayed,7,1452.8,No,31,47,65.96,0.28
+20-02-2024,Feb,Q1,2024,P014,Webcam,Electronics,BlueOcean Logistics,Bengaluru,South,455,37,80,412,42,Sufficient Stock,6,284,Delayed,12,3493.76,No,90,80,87.5,0.18
+22-02-2024,Feb,Q1,2024,P014,Webcam,Electronics,Global Supply Co.,Hyderabad,South,195,120,255,60,68,Reorder Needed,7,97,Delayed,10,568.18,No,265,255,96.08,2
+22-02-2024,Feb,Q1,2024,P002,Bluetooth Speaker,Electronics,NorthStar Traders,Delhi,North,233,88,145,176,91,Sufficient Stock,2,236,On Time,2,373.72,No,149,145,97.24,0.71
+27-02-2024,Feb,Q1,2024,P002,Bluetooth Speaker,Electronics,BlueOcean Logistics,Mumbai,West,329,9,199,139,77,Sufficient Stock,10,87,On Time,10,191.32,No,202,199,98.49,0.85
+28-02-2024,Feb,Q1,2024,P014,Webcam,Electronics,Global Supply Co.,Kolkata,East,301,18,37,282,49,Sufficient Stock,4,257,On Time,4,1053.16,No,32,37,86.49,0.13
+01-03-2024,Mar,Q1,2024,P009,Electric Kettle,Home Appliances,NorthStar Traders,Hyderabad,South,355,158,125,388,89,Sufficient Stock,10,147,On Time,10,1933.95,No,142,125,86.4,0.34
+04-03-2024,Mar,Q1,2024,P005,LED Monitor,Electronics,Global Supply Co.,Mumbai,West,189,115,272,32,49,Reorder Needed,15,161,On Time,15,294.23,No,280,272,97.06,2.46
+07-03-2024,Mar,Q1,2024,P010,Backpack,Accessories,BlueOcean Logistics,Delhi,North,208,143,202,149,81,Sufficient Stock,14,134,Delayed,20,1091.48,No,215,202,93.56,1.13
+15-03-2024,Mar,Q1,2024,P007,Ballpoint Pens (Box),Stationery,Prime Vendors Ltd.,Hyderabad,South,310,191,79,422,95,Sufficient Stock,3,120,Delayed,7,1712.81,No,91,79,84.81,0.22
+21-03-2024,Mar,Q1,2024,P004,Standing Desk,Furniture,Prime Vendors Ltd.,Hyderabad,South,88,40,10,118,66,Sufficient Stock,9,226,On Time,9,427.33,No,4,10,40,0.1
+21-03-2024,Mar,Q1,2024,P006,Notebook Set,Stationery,Apex Distributors,Bengaluru,South,447,145,53,539,96,Sufficient Stock,2,89,On Time,2,3536.16,No,38,53,71.7,0.11
+26-03-2024,Mar,Q1,2024,P007,Ballpoint Pens (Box),Stationery,NorthStar Traders,Kolkata,East,159,102,241,20,43,Reorder Needed,4,147,On Time,4,90.28,No,250,241,96.27,2.69
+28-03-2024,Mar,Q1,2024,P013,Keyboard,Electronics,Metro Wholesale,Kolkata,East,475,176,195,456,45,Sufficient Stock,8,266,On Time,8,2243.98,No,200,195,97.44,0.42
+05-04-2024,Apr,Q2,2024,P002,Bluetooth Speaker,Electronics,Metro Wholesale,Delhi,North,395,60,216,239,47,Sufficient Stock,11,113,On Time,11,324.47,No,201,216,93.06,0.68
+07-04-2024,Apr,Q2,2024,P002,Bluetooth Speaker,Electronics,Global Supply Co.,Kolkata,East,231,108,220,119,69,Sufficient Stock,15,236,On Time,15,818.84,No,206,220,93.64,1.26
+08-04-2024,Apr,Q2,2024,P004,Standing Desk,Furniture,BlueOcean Logistics,Kolkata,East,191,185,278,98,78,Sufficient Stock,6,75,Delayed,9,298.65,No,269,278,96.76,1.92
+08-04-2024,Apr,Q2,2024,P004,Standing Desk,Furniture,Prime Vendors Ltd.,Mumbai,West,89,75,35,129,72,Sufficient Stock,14,188,Delayed,19,172.83,No,36,35,97.14,0.32
+11-04-2024,Apr,Q2,2024,P007,Ballpoint Pens (Box),Stationery,NorthStar Traders,Delhi,North,171,97,193,75,76,Reorder Needed,6,229,On Time,6,735.12,No,198,193,97.41,1.57
+12-04-2024,Apr,Q2,2024,P013,Keyboard,Electronics,Metro Wholesale,Mumbai,West,496,64,36,524,81,Sufficient Stock,9,273,On Time,9,4930.11,No,49,36,63.89,0.07
+18-04-2024,Apr,Q2,2024,P013,Keyboard,Electronics,Prime Vendors Ltd.,Bengaluru,South,198,83,71,210,40,Sufficient Stock,9,241,On Time,9,454.15,No,85,71,80.28,0.35
+18-04-2024,Apr,Q2,2024,P011,Water Bottle,Accessories,NorthStar Traders,Kolkata,East,379,117,83,413,56,Sufficient Stock,4,113,On Time,4,2416.38,No,100,83,79.52,0.21
+20-04-2024,Apr,Q2,2024,P007,Ballpoint Pens (Box),Stationery,NorthStar Traders,Mumbai,West,261,86,242,105,65,Sufficient Stock,8,236,On Time,8,508.28,No,238,242,98.35,1.32
+22-04-2024,Apr,Q2,2024,P008,Air Purifier,Home Appliances,Prime Vendors Ltd.,Bengaluru,South,273,124,24,373,64,Sufficient Stock,7,221,On Time,7,1730.27,No,14,24,58.33,0.07
+24-04-2024,Apr,Q2,2024,P001,Wireless Mouse,Electronics,BlueOcean Logistics,Mumbai,West,254,84,152,186,95,Sufficient Stock,3,297,Delayed,6,1259.85,No,157,152,96.71,0.69
+25-04-2024,Apr,Q2,2024,P014,Webcam,Electronics,BlueOcean Logistics,Kolkata,East,483,142,197,428,45,Sufficient Stock,14,151,On Time,14,2494.9,No,206,197,95.43,0.43
+27-04-2024,Apr,Q2,2024,P010,Backpack,Accessories,Prime Vendors Ltd.,Delhi,North,86,181,40,227,54,Sufficient Stock,3,281,On Time,3,902.05,No,52,40,70,0.26
+29-04-2024,Apr,Q2,2024,P014,Webcam,Electronics,Global Supply Co.,Kolkata,East,192,116,196,112,50,Sufficient Stock,7,140,On Time,7,381.11,No,180,196,91.84,1.29
+30-04-2024,Apr,Q2,2024,P005,LED Monitor,Electronics,Apex Distributors,Bengaluru,South,326,20,80,266,49,Sufficient Stock,5,148,On Time,5,1957.17,No,64,80,80,0.27
+01-05-2024,May,Q2,2024,P014,Webcam,Electronics,Prime Vendors Ltd.,Mumbai,West,261,6,101,166,87,Sufficient Stock,7,250,Delayed,13,1456.92,No,96,101,95.05,0.47
+01-05-2024,May,Q2,2024,P005,LED Monitor,Electronics,BlueOcean Logistics,Kolkata,East,159,138,77,220,86,Sufficient Stock,11,197,On Time,11,1773.55,No,83,77,92.21,0.41
+02-05-2024,May,Q2,2024,P012,Table Lamp,Furniture,Prime Vendors Ltd.,Bengaluru,South,332,3,292,43,66,Reorder Needed,3,107,Delayed,4,221.58,No,279,292,95.55,1.56
+02-05-2024,May,Q2,2024,P001,Wireless Mouse,Electronics,Prime Vendors Ltd.,Hyderabad,South,90,21,103,8,71,Reorder Needed,15,67,Delayed,20,63.14,No,91,103,88.35,2.1
+09-05-2024,May,Q2,2024,P012,Table Lamp,Furniture,BlueOcean Logistics,Hyderabad,South,497,38,180,355,45,Sufficient Stock,11,219,On Time,11,1472.68,No,185,180,97.22,0.42
+09-05-2024,May,Q2,2024,P014,Webcam,Electronics,Global Supply Co.,Kolkata,East,59,191,148,102,43,Sufficient Stock,7,107,On Time,7,819.16,No,130,148,87.84,1.84
+12-05-2024,May,Q2,2024,P006,Notebook Set,Stationery,Apex Distributors,Hyderabad,South,409,70,294,185,40,Sufficient Stock,10,292,On Time,10,586.86,No,300,294,97.96,0.99
+16-05-2024,May,Q2,2024,P003,Office Chair,Furniture,BlueOcean Logistics,Delhi,North,245,9,229,25,70,Reorder Needed,5,101,Delayed,9,103.67,No,223,229,97.38,1.7
+16-05-2024,May,Q2,2024,P014,Webcam,Electronics,Global Supply Co.,Bengaluru,South,421,76,260,237,95,Sufficient Stock,4,164,On Time,4,973.17,No,275,260,94.23,0.79
+18-05-2024,May,Q2,2024,P005,LED Monitor,Electronics,Apex Distributors,Mumbai,West,111,184,108,187,60,Sufficient Stock,3,240,On Time,3,1469.78,No,99,108,91.67,0.72
+19-05-2024,May,Q2,2024,P008,Air Purifier,Home Appliances,BlueOcean Logistics,Kolkata,East,298,155,236,217,66,Sufficient Stock,6,105,Delayed,7,891.13,No,223,236,94.49,0.92
+20-05-2024,May,Q2,2024,P001,Wireless Mouse,Electronics,Metro Wholesale,Delhi,North,360,190,264,286,93,Sufficient Stock,6,248,Delayed,11,2350.18,No,258,264,97.73,0.82
+21-05-2024,May,Q2,2024,P001,Wireless Mouse,Electronics,Global Supply Co.,Bengaluru,South,444,33,144,333,50,Sufficient Stock,13,163,On Time,13,1614.78,No,124,144,86.11,0.37
+24-05-2024,May,Q2,2024,P010,Backpack,Accessories,Prime Vendors Ltd.,Bengaluru,South,154,175,145,184,72,Sufficient Stock,9,114,Delayed,10,336.83,No,152,145,95.17,0.86
+25-05-2024,May,Q2,2024,P011,Water Bottle,Accessories,BlueOcean Logistics,Hyderabad,South,299,134,167,266,42,Sufficient Stock,5,151,Delayed,6,284.41,No,166,167,99.4,0.59
+26-05-2024,May,Q2,2024,P007,Ballpoint Pens (Box),Stationery,BlueOcean Logistics,Hyderabad,South,388,183,259,312,49,Sufficient Stock,5,125,On Time,5,476.24,No,273,259,94.59,0.74
+27-05-2024,May,Q2,2024,P011,Water Bottle,Accessories,Metro Wholesale,Mumbai,West,87,113,98,102,77,Sufficient Stock,6,213,Delayed,12,331.58,No,97,98,98.98,1.04
+27-05-2024,May,Q2,2024,P012,Table Lamp,Furniture,Apex Distributors,Kolkata,East,86,175,69,192,99,Sufficient Stock,6,251,Delayed,11,1334.52,No,61,69,88.41,0.5
+27-05-2024,May,Q2,2024,P004,Standing Desk,Furniture,Apex Distributors,Delhi,North,74,61,63,72,80,Reorder Needed,14,209,On Time,14,143.84,No,74,63,82.54,0.86
+27-05-2024,May,Q2,2024,P010,Backpack,Accessories,Apex Distributors,Bengaluru,South,103,147,139,111,53,Sufficient Stock,4,218,On Time,4,957.42,No,141,139,98.56,1.3
+02-06-2024,Jun,Q2,2024,P009,Electric Kettle,Home Appliances,Apex Distributors,Kolkata,East,217,103,161,159,75,Sufficient Stock,4,99,On Time,4,1504.65,No,152,161,94.41,0.86
+03-06-2024,Jun,Q2,2024,P001,Wireless Mouse,Electronics,BlueOcean Logistics,Hyderabad,South,114,70,21,163,43,Sufficient Stock,10,124,On Time,10,348.27,No,32,21,47.62,0.15
+03-06-2024,Jun,Q2,2024,P008,Air Purifier,Home Appliances,BlueOcean Logistics,Delhi,North,81,122,112,91,67,Sufficient Stock,12,77,On Time,12,836.05,No,96,112,85.71,1.3
+05-06-2024,Jun,Q2,2024,P011,Water Bottle,Accessories,Metro Wholesale,Bengaluru,South,292,141,281,152,62,Sufficient Stock,8,240,On Time,8,633.26,No,290,281,96.8,1.27
+16-06-2024,Jun,Q2,2024,P015,Printer Paper (Ream),Stationery,Metro Wholesale,Mumbai,West,381,16,247,150,98,Sufficient Stock,13,127,On Time,13,307.5,No,229,247,92.71,0.93
+19-06-2024,Jun,Q2,2024,P004,Standing Desk,Furniture,Prime Vendors Ltd.,Hyderabad,South,155,17,151,21,53,Reorder Needed,11,105,Delayed,13,83.1,No,140,151,92.72,1.72
+22-06-2024,Jun,Q2,2024,P010,Backpack,Accessories,BlueOcean Logistics,Kolkata,East,382,20,178,224,94,Sufficient Stock,12,269,On Time,12,2147.53,No,198,178,88.76,0.59
+25-06-2024,Jun,Q2,2024,P012,Table Lamp,Furniture,Apex Distributors,Kolkata,East,360,130,69,421,64,Sufficient Stock,11,98,On Time,11,3106.56,No,49,69,71.01,0.18
+27-06-2024,Jun,Q2,2024,P015,Printer Paper (Ream),Stationery,Global Supply Co.,Kolkata,East,77,101,138,40,63,Reorder Needed,5,148,Delayed,8,120.83,No,138,138,100,2.36
+29-06-2024,Jun,Q2,2024,P009,Electric Kettle,Home Appliances,Global Supply Co.,Bengaluru,South,286,115,29,372,43,Sufficient Stock,7,262,On Time,7,2530.34,No,14,29,48.28,0.09
+02-07-2024,Jul,Q3,2024,P013,Keyboard,Electronics,Prime Vendors Ltd.,Hyderabad,South,215,4,54,165,56,Sufficient Stock,2,82,On Time,2,946.24,No,38,54,70.37,0.28
+07-07-2024,Jul,Q3,2024,P011,Water Bottle,Accessories,BlueOcean Logistics,Bengaluru,South,349,97,200,246,46,Sufficient Stock,12,109,On Time,12,1617.7,No,215,200,92.5,0.67
+10-07-2024,Jul,Q3,2024,P007,Ballpoint Pens (Box),Stationery,Prime Vendors Ltd.,Mumbai,West,321,105,299,127,83,Sufficient Stock,14,96,On Time,14,217.27,No,303,299,98.66,1.33
+10-07-2024,Jul,Q3,2024,P003,Office Chair,Furniture,BlueOcean Logistics,Kolkata,East,84,23,20,87,45,Sufficient Stock,8,74,On Time,8,378.78,No,8,20,40,0.23
+17-07-2024,Jul,Q3,2024,P007,Ballpoint Pens (Box),Stationery,Apex Distributors,Hyderabad,South,76,161,175,62,61,Sufficient Stock,3,134,On Time,3,440.53,No,173,175,98.86,2.54
+23-07-2024,Jul,Q3,2024,P011,Water Bottle,Accessories,BlueOcean Logistics,Bengaluru,South,274,132,241,165,47,Sufficient Stock,5,107,On Time,5,196.25,No,256,241,93.78,1.1
+31-07-2024,Jul,Q3,2024,P007,Ballpoint Pens (Box),Stationery,Apex Distributors,Hyderabad,South,288,106,41,353,53,Sufficient Stock,15,157,On Time,15,2798.65,No,22,41,53.66,0.13
+02-08-2024,Aug,Q3,2024,P011,Water Bottle,Accessories,Metro Wholesale,Hyderabad,South,317,80,143,254,53,Sufficient Stock,12,233,On Time,12,861.21,No,131,143,91.61,0.5
+02-08-2024,Aug,Q3,2024,P004,Standing Desk,Furniture,NorthStar Traders,Hyderabad,South,192,1,50,143,84,Sufficient Stock,8,137,On Time,8,420.11,No,51,50,98,0.3
+02-08-2024,Aug,Q3,2024,P010,Backpack,Accessories,BlueOcean Logistics,Mumbai,West,262,167,60,369,93,Sufficient Stock,9,207,On Time,9,3528.97,No,42,60,70,0.19
+04-08-2024,Aug,Q3,2024,P001,Wireless Mouse,Electronics,Global Supply Co.,Delhi,North,161,59,139,81,78,Sufficient Stock,2,193,On Time,2,554.77,No,153,139,89.93,1.15
+05-08-2024,Aug,Q3,2024,P002,Bluetooth Speaker,Electronics,Metro Wholesale,Mumbai,West,381,38,146,273,92,Sufficient Stock,4,68,On Time,4,2220.47,No,164,146,87.67,0.45
+05-08-2024,Aug,Q3,2024,P004,Standing Desk,Furniture,Prime Vendors Ltd.,Hyderabad,South,287,12,295,4,55,Reorder Needed,15,81,On Time,15,32.85,No,308,295,95.59,2.03
+07-08-2024,Aug,Q3,2024,P005,LED Monitor,Electronics,Metro Wholesale,Hyderabad,South,80,156,199,37,46,Reorder Needed,14,103,On Time,14,125.13,No,184,199,92.46,3.4
+07-08-2024,Aug,Q3,2024,P015,Printer Paper (Ream),Stationery,Metro Wholesale,Kolkata,East,235,56,80,211,72,Sufficient Stock,9,73,Delayed,10,501.25,No,70,80,87.5,0.36
+10-08-2024,Aug,Q3,2024,P002,Bluetooth Speaker,Electronics,BlueOcean Logistics,Delhi,North,277,42,163,156,97,Sufficient Stock,2,61,On Time,2,234.78,No,165,163,98.77,0.75
+11-08-2024,Aug,Q3,2024,P011,Water Bottle,Accessories,NorthStar Traders,Delhi,North,290,89,219,160,61,Sufficient Stock,7,221,On Time,7,391.58,No,225,219,97.26,0.97
+13-08-2024,Aug,Q3,2024,P002,Bluetooth Speaker,Electronics,Metro Wholesale,Kolkata,East,57,184,46,195,66,Sufficient Stock,15,217,Delayed,16,1018.95,No,42,46,91.3,0.37
+14-08-2024,Aug,Q3,2024,P008,Air Purifier,Home Appliances,BlueOcean Logistics,Mumbai,West,311,121,96,336,82,Sufficient Stock,3,122,On Time,3,2249.99,No,97,96,98.96,0.3
+17-08-2024,Aug,Q3,2024,P010,Backpack,Accessories,Global Supply Co.,Delhi,North,59,65,37,87,93,Reorder Needed,4,190,Delayed,9,500.25,No,24,37,64.86,0.51
+18-08-2024,Aug,Q3,2024,P005,LED Monitor,Electronics,Prime Vendors Ltd.,Bengaluru,South,442,199,276,365,71,Sufficient Stock,12,111,On Time,12,619.55,No,274,276,99.28,0.68
+21-08-2024,Aug,Q3,2024,P007,Ballpoint Pens (Box),Stationery,BlueOcean Logistics,Hyderabad,South,149,183,206,126,71,Sufficient Stock,8,112,On Time,8,905.76,No,192,206,93.2,1.5
+24-08-2024,Aug,Q3,2024,P003,Office Chair,Furniture,Global Supply Co.,Bengaluru,South,244,83,118,209,69,Sufficient Stock,7,136,Delayed,11,732.42,No,124,118,94.92,0.52
+24-08-2024,Aug,Q3,2024,P004,Standing Desk,Furniture,Global Supply Co.,Kolkata,East,463,140,60,543,43,Sufficient Stock,12,188,Delayed,13,5070.21,No,55,60,91.67,0.12
+27-08-2024,Aug,Q3,2024,P015,Printer Paper (Ream),Stationery,Prime Vendors Ltd.,Hyderabad,South,323,6,211,118,77,Sufficient Stock,11,219,On Time,11,800.61,No,199,211,94.31,0.96
+28-08-2024,Aug,Q3,2024,P015,Printer Paper (Ream),Stationery,Prime Vendors Ltd.,Bengaluru,South,397,146,235,308,69,Sufficient Stock,14,122,Delayed,19,1770.14,No,225,235,95.74,0.67
+31-08-2024,Aug,Q3,2024,P008,Air Purifier,Home Appliances,Apex Distributors,Hyderabad,South,353,27,241,139,72,Sufficient Stock,5,292,On Time,5,1048.78,No,254,241,94.61,0.98
+06-09-2024,Sep,Q3,2024,P014,Webcam,Electronics,Metro Wholesale,Delhi,North,366,17,130,253,80,Sufficient Stock,12,285,On Time,12,770.99,No,115,130,88.46,0.42
+07-09-2024,Sep,Q3,2024,P009,Electric Kettle,Home Appliances,Prime Vendors Ltd.,Kolkata,East,380,182,261,301,68,Sufficient Stock,14,54,On Time,14,901.31,No,256,261,98.08,0.77
+13-09-2024,Sep,Q3,2024,P013,Keyboard,Electronics,Prime Vendors Ltd.,Hyderabad,South,104,160,86,178,93,Sufficient Stock,12,179,On Time,12,422.86,No,76,86,88.37,0.61
+15-09-2024,Sep,Q3,2024,P011,Water Bottle,Accessories,Prime Vendors Ltd.,Delhi,North,176,181,234,123,68,Sufficient Stock,10,183,On Time,10,525.83,No,232,234,99.15,1.57
+16-09-2024,Sep,Q3,2024,P005,LED Monitor,Electronics,Prime Vendors Ltd.,Bengaluru,South,85,62,104,43,58,Reorder Needed,4,162,Delayed,10,160.07,No,117,104,87.5,1.62
+18-09-2024,Sep,Q3,2024,P004,Standing Desk,Furniture,Apex Distributors,Bengaluru,South,422,165,85,502,55,Sufficient Stock,3,87,On Time,3,1285.82,No,74,85,87.06,0.18
+20-09-2024,Sep,Q3,2024,P014,Webcam,Electronics,Global Supply Co.,Hyderabad,South,286,105,37,354,52,Sufficient Stock,10,142,On Time,10,1942.19,No,45,37,78.38,0.12
+23-09-2024,Sep,Q3,2024,P015,Printer Paper (Ream),Stationery,Metro Wholesale,Mumbai,West,236,110,45,301,100,Sufficient Stock,12,285,On Time,12,1151.39,No,32,45,71.11,0.17
+25-09-2024,Sep,Q3,2024,P002,Bluetooth Speaker,Electronics,NorthStar Traders,Bengaluru,South,431,86,123,394,61,Sufficient Stock,14,93,On Time,14,2639.41,No,136,123,89.43,0.3
+28-09-2024,Sep,Q3,2024,P009,Electric Kettle,Home Appliances,Apex Distributors,Mumbai,West,181,123,161,143,87,Sufficient Stock,15,136,Delayed,19,1382.24,No,150,161,93.17,0.99
+28-09-2024,Sep,Q3,2024,P005,LED Monitor,Electronics,NorthStar Traders,Hyderabad,South,359,110,60,409,90,Sufficient Stock,13,79,Delayed,19,3639.85,No,75,60,75,0.16
+03-10-2024,Oct,Q4,2024,P013,Keyboard,Electronics,Metro Wholesale,Delhi,North,356,82,260,178,41,Sufficient Stock,3,287,On Time,3,1756.47,No,259,260,99.62,0.97
+05-10-2024,Oct,Q4,2024,P007,Ballpoint Pens (Box),Stationery,NorthStar Traders,Bengaluru,South,495,48,132,411,76,Sufficient Stock,8,109,Delayed,12,572.44,No,142,132,92.42,0.29
+11-10-2024,Oct,Q4,2024,P001,Wireless Mouse,Electronics,Metro Wholesale,Hyderabad,South,337,84,72,349,66,Sufficient Stock,7,273,On Time,7,2705.66,No,55,72,76.39,0.21
+11-10-2024,Oct,Q4,2024,P006,Notebook Set,Stationery,Global Supply Co.,Bengaluru,South,343,57,229,171,94,Sufficient Stock,10,299,Delayed,15,1115.3,No,244,229,93.45,0.89
+13-10-2024,Oct,Q4,2024,P010,Backpack,Accessories,Apex Distributors,Kolkata,East,363,184,268,279,67,Sufficient Stock,15,282,On Time,15,2531.87,No,278,268,96.27,0.83
+16-10-2024,Oct,Q4,2024,P011,Water Bottle,Accessories,NorthStar Traders,Delhi,North,122,189,25,286,45,Sufficient Stock,13,185,On Time,13,1366.62,No,26,25,96,0.12
+18-10-2024,Oct,Q4,2024,P015,Printer Paper (Ream),Stationery,Apex Distributors,Kolkata,East,113,119,186,46,59,Reorder Needed,13,153,Delayed,18,269.55,No,194,186,95.7,2.34
+21-10-2024,Oct,Q4,2024,P011,Water Bottle,Accessories,NorthStar Traders,Kolkata,East,416,50,48,418,77,Sufficient Stock,13,262,On Time,13,801.39,No,47,48,97.92,0.12
+21-10-2024,Oct,Q4,2024,P007,Ballpoint Pens (Box),Stationery,NorthStar Traders,Delhi,North,230,76,209,97,94,Sufficient Stock,15,157,On Time,15,738.34,No,227,209,91.39,1.28
+01-11-2024,Nov,Q4,2024,P001,Wireless Mouse,Electronics,Apex Distributors,Mumbai,West,116,138,74,180,91,Sufficient Stock,4,78,On Time,4,221.76,No,54,74,72.97,0.5
+07-11-2024,Nov,Q4,2024,P011,Water Bottle,Accessories,Prime Vendors Ltd.,Hyderabad,South,423,62,93,392,69,Sufficient Stock,8,119,Delayed,14,2819.81,No,87,93,93.55,0.23
+10-11-2024,Nov,Q4,2024,P010,Backpack,Accessories,Metro Wholesale,Kolkata,East,286,148,293,141,90,Sufficient Stock,13,279,On Time,13,1294.58,No,309,293,94.54,1.37
+11-11-2024,Nov,Q4,2024,P010,Backpack,Accessories,Apex Distributors,Kolkata,East,330,0,165,165,58,Sufficient Stock,5,160,Delayed,10,1137.25,No,174,165,94.55,0.67
+12-11-2024,Nov,Q4,2024,P003,Office Chair,Furniture,Metro Wholesale,Kolkata,East,128,41,56,113,93,Sufficient Stock,13,247,On Time,13,1031.01,No,64,56,85.71,0.46
+13-11-2024,Nov,Q4,2024,P011,Water Bottle,Accessories,Prime Vendors Ltd.,Kolkata,East,348,36,128,256,69,Sufficient Stock,12,115,On Time,12,1792.41,No,137,128,92.97,0.42
+15-11-2024,Nov,Q4,2024,P006,Notebook Set,Stationery,BlueOcean Logistics,Bengaluru,South,127,112,27,212,70,Sufficient Stock,9,211,On Time,9,736.06,No,10,27,37.04,0.16
+21-11-2024,Nov,Q4,2024,P004,Standing Desk,Furniture,Metro Wholesale,Bengaluru,South,397,193,80,510,80,Sufficient Stock,3,281,On Time,3,690.95,No,88,80,90,0.18
+23-11-2024,Nov,Q4,2024,P002,Bluetooth Speaker,Electronics,Global Supply Co.,Bengaluru,South,175,57,45,187,87,Sufficient Stock,3,223,On Time,3,1104.83,No,62,45,62.22,0.25
+27-11-2024,Nov,Q4,2024,P014,Webcam,Electronics,Prime Vendors Ltd.,Kolkata,East,416,74,270,220,85,Sufficient Stock,6,156,Delayed,10,702.59,No,285,270,94.44,0.85
+29-11-2024,Nov,Q4,2024,P004,Standing Desk,Furniture,Apex Distributors,Hyderabad,South,293,128,87,334,43,Sufficient Stock,9,76,Delayed,12,3287.03,No,72,87,82.76,0.28
+29-11-2024,Nov,Q4,2024,P005,LED Monitor,Electronics,Metro Wholesale,Hyderabad,South,446,123,248,321,67,Sufficient Stock,15,237,On Time,15,1252.16,No,243,248,97.98,0.65
+01-12-2024,Dec,Q4,2024,P002,Bluetooth Speaker,Electronics,Prime Vendors Ltd.,Kolkata,East,287,193,298,182,88,Sufficient Stock,11,164,On Time,11,1626.79,No,318,298,93.29,1.27
+03-12-2024,Dec,Q4,2024,P008,Air Purifier,Home Appliances,Metro Wholesale,Mumbai,West,185,135,226,94,53,Sufficient Stock,10,243,On Time,10,264.18,No,225,226,99.56,1.62
+09-12-2024,Dec,Q4,2024,P011,Water Bottle,Accessories,Apex Distributors,Kolkata,East,211,192,47,356,40,Sufficient Stock,9,209,Delayed,10,590.75,No,40,47,85.11,0.17
+10-12-2024,Dec,Q4,2024,P014,Webcam,Electronics,Apex Distributors,Hyderabad,South,70,195,99,166,70,Sufficient Stock,10,216,On Time,10,581.56,No,116,99,82.83,0.84
+13-12-2024,Dec,Q4,2024,P014,Webcam,Electronics,Metro Wholesale,Bengaluru,South,64,29,43,50,51,Reorder Needed,11,296,Delayed,12,98.78,No,50,43,83.72,0.75
+14-12-2024,Dec,Q4,2024,P007,Ballpoint Pens (Box),Stationery,Metro Wholesale,Delhi,North,247,97,249,95,73,Sufficient Stock,6,298,On Time,6,900.77,No,236,249,94.78,1.46
+15-12-2024,Dec,Q4,2024,P015,Printer Paper (Ream),Stationery,Metro Wholesale,Bengaluru,South,443,164,184,423,47,Sufficient Stock,6,161,On Time,6,435.35,No,180,184,97.83,0.42
+16-12-2024,Dec,Q4,2024,P006,Notebook Set,Stationery,Global Supply Co.,Mumbai,West,470,8,171,307,65,Sufficient Stock,6,66,On Time,6,2912.26,No,171,171,100,0.44
+16-12-2024,Dec,Q4,2024,P010,Backpack,Accessories,Global Supply Co.,Hyderabad,South,450,10,187,273,74,Sufficient Stock,8,219,On Time,8,1516.13,No,188,187,99.47,0.52
+19-12-2024,Dec,Q4,2024,P006,Notebook Set,Stationery,Prime Vendors Ltd.,Kolkata,East,277,60,195,142,46,Sufficient Stock,12,144,On Time,12,1391.69,No,197,195,98.97,0.93
+21-12-2024,Dec,Q4,2024,P008,Air Purifier,Home Appliances,Apex Distributors,Kolkata,East,466,194,291,369,42,Sufficient Stock,9,72,On Time,9,1442.57,No,296,291,98.28,0.7
+24-12-2024,Dec,Q4,2024,P005,LED Monitor,Electronics,Apex Distributors,Mumbai,West,360,155,68,447,89,Sufficient Stock,15,91,Delayed,16,2775.07,No,67,68,98.53,0.17
+26-12-2024,Dec,Q4,2024,P004,Standing Desk,Furniture,Metro Wholesale,Hyderabad,South,476,171,191,456,44,Sufficient Stock,8,270,On Time,8,2246.26,No,200,191,95.29,0.41
+27-12-2024,Dec,Q4,2024,P015,Printer Paper (Ream),Stationery,NorthStar Traders,Kolkata,East,389,166,87,468,71,Sufficient Stock,2,82,On Time,2,2953.83,No,73,87,83.91,0.2
